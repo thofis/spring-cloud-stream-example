@@ -3,3 +3,7 @@ target
 *.class
 *.iml
 .idea
+*.jar
+*.war
+*.ear
+hs_err_pid*
